@@ -27,7 +27,7 @@
 ### Quick Setup
 ```bash
 # Clone the repository
-git clone https://github.com/mrgeist/sonnet-5l.git
+git clone https://github.com/devmrgeist-byte/sonnet-5l.git
 cd sonnet-5l
 
 # Install dependencies
@@ -76,7 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨💻 Author
 
 **Mr Geist** 
-- GitHub: [@mrgeist](https://github.com/mrgeist)
+- GitHub: [@mrgeist](https://github.com/devmrgeist-byte)
 - Project: Sonnet-5L
 
 ## 🌟 Acknowledgments
