@@ -105,33 +105,5 @@ sonnet-5l/
     └── demo.py
 ```
 
-## 🚀 **Quick Start Commands**
-
-```bash
-# Create project directory
-mkdir sonnet-5l
-cd sonnet-5l
-
-# Create all files (copy the content above into respective files)
-touch sonnet_5l.py requirements.txt README.md LICENSE .gitignore
-
-# Initialize git repository
-git init
-git add .
-git commit -m "Initial commit: Sonnet-5L Instagram Username Scanner"
-
-# Create virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python sonnet_5l.py
-```
-
-
-- ✅ **Clear usage instructions**
 
 The project is now ready for GitHub and public distribution!
