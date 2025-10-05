@@ -43,9 +43,6 @@ cd Sonnet-5l
 
 # Install dependencies
 pip install requests
-
-# Run the scanner
-python sonnet_5l.py
 ```
 
 ## 📸 Usage
