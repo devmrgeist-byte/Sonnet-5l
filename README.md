@@ -38,11 +38,11 @@ sonnet-5l/
 ### Quick Setup
 ```bash
 # Clone the repository
-git clone https://github.com/devmrgeist-byte/sonnet-5l.git
-cd sonnet-5l
+git clone https://github.com/devmrgeist-byte/Sonnet-5l.git
+cd Sonnet-5l
 
 # Install dependencies
-pip install -r requirements.txt
+pip install requests
 
 # Run the scanner
 python sonnet_5l.py
